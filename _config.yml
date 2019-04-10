@@ -29,6 +29,6 @@ kramdown:
   enable_coderay: false
 
   
-paginate_path: "/blog/:num/"
+paginate_path: "/"
 
 paginate: 10
