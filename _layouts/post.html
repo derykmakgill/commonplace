@@ -15,10 +15,10 @@ layout: default
 
 <div class="PageNavigation">
     ({% if page.previous.url %}
-  &laquo; <a class="prev" href="{{page.previous.url}}">previous</a>
+  &laquo; <a class="prev" href="/commonplace{{page.previous.url}}">previous</a>
   {% endif %}
   {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">next</a>  &raquo;
+    <a class="next" href="/commonplace{{page.next.url}}">next</a>  &raquo;
   {% endif %})
 </div>
 
