@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What is a Commonplace Book?
+permalink: /commonplace/about
 ---
 
 
