@@ -31,4 +31,4 @@ kramdown:
   
 paginate_path: "/"
 
-paginate: 10
+paginate: 25
