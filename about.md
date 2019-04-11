@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: page
 title: What is a Commonplace Book?
 ---
-
-
-
-<p>A commonplace book is a central resource or depository for ideas, quotes, anecdotes, observations and information you come across during your life and didactic pursuits. The purpose of the book is to record and organization these gems for later use in your life, in your business, in your writing, speaking or whatever it is that you do.</p>
+<blockquote><p>A commonplace book is a central resource or depository for ideas, quotes, anecdotes, observations and information you come across during your life and didactic pursuits. The purpose of the book is to record and organization these gems for later use in your life, in your business, in your writing, speaking or whatever it is that you do.</p>
 
 <p>Some of the greatest men and women in history have kept these books. Marcus Aurelius kept one – which more or less became the Meditations. Petrarch kept one. Montaigne, who invented the essay, kept a handwritten compilation of sayings, maxims and quotations from literature and history that he felt were important. His earliest essays were little more than compilations of these thoughts. Thomas Jefferson kept one. Napoleon kept one. HL Mencken, who did so much for the English language, as his biographer put it, “methodically filled notebooks with incidents, recording straps of dialog and slang” and favorite bits from newspaper columns he liked. Bill Gates keeps one.</p>
 
