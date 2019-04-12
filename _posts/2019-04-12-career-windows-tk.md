@@ -3,7 +3,7 @@ layout: post
 title: Career opportunity windows
 ---
 
-Great career advice from my friend T.K. Coleman:
+Great career advice from my friend [T.K. Coleman:](https://twitter.com/TK_Coleman/status/1109636184232333312)
 
 ![Career windows](/commonplace/assets/images/opportunity-windows.png)
 
