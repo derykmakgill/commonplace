@@ -7,20 +7,20 @@ Maybe this doesn't belong here in my commonplace book because it's not lofty eno
 
 From my friends at [Crash:](https://twitter.com/CareerCrash/status/1111044496597372928)
 
-*O Resume, thou art sick.
+*O Resume, thou art sick.*
 
-The job seeker
+*The job seeker*
 
-That discovers an opportunity
+*That discovers an opportunity*
 
-By using something better
+*By using something better*
 
-Has found out thy lies
+*Has found out thy lies*
 
-Of 12-point Roman font
+*Of 12-point Roman font*
 
-And the proof of their work
+*And the proof of their work*
 
-Does thy life destroy.*
+*Does thy life destroy.*
 
 <cite>William Blake's "The Sick Rose" became "The Sick Resume".</cite>
