@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: The Sick Resume
 ---
 
 Maybe this doesn't belong here in my commonplace book because it's not lofty enough, but it is *my* book after all, and I love rewriting poems.
