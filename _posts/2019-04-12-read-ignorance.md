@@ -13,7 +13,7 @@ Leonard Read seemed to agree. From his journals:
 
 Socrates said it a couple thousand years before though:
 
-Although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is - for he knows nothing, and thinks that he knows. I neither know nor think that I know.
+>Although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is - for he knows nothing, and thinks that he knows. I neither know nor think that I know.
 
 <cite>The Apology, Benjamin Jowett translation</cite>
 
