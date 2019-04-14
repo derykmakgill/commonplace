@@ -11,6 +11,9 @@ Don't pretend you haven't done it before.
 
 Our goal should be to bear our misfortunes quietly, peacefully, and to never wish those same misfortunes upon others.
 
+
+In the following passage, two men are set to die by execution together for separate crimes. One of them is pardoned at the very last minute, and the remaining condemned man goes into a frenzy, demanding the other man die with him.
+
 <blockquote><p>'A pardon for Peppino!' yelled Andrea, entirely roused from the state of torpor into which he had seemed to be plunged. 'Why a pardon for him and not for me? We were to die together. I was promised that he would die before me. You have no right to make me die alone. I don't want to die alone!' And he broke away from the two priests, twisting, shouting, bellowing, and making insane efforts to break the ropes binding his hands.</p>
 
 <p>The executioner made a sign to his two assistants, who jumped off the scaffold and seized the prisoner.</p>
