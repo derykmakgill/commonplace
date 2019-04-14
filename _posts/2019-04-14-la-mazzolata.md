@@ -9,6 +9,8 @@ Here is a brilliant sort of parable from the chapter, 'La Mazzolata,' in *The Co
 
 Don't pretend you haven't done it before. 
 
+Our goal should be to bear our misfortunes quietly, peacefully, and to never wish those same misfortunes upon others.
+
 <blockquote><p>'A pardon for Peppino!' yelled Andrea, entirely roused from the state of torpor into which he had seemed to be plunged. 'Why a pardon for him and not for me? We were to die together. I was promised that he would die before me. You have no right to make me die alone. I don't want to die alone!' And he broke away from the two priests, twisting, shouting, bellowing, and making insane efforts to break the ropes binding his hands.</p>
 
 <p>The executioner made a sign to his two assistants, who jumped off the scaffold and seized the prisoner.</p>
