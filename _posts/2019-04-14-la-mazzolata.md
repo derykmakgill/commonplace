@@ -1,3 +1,8 @@
+---
+layout: post
+title: The Count of Monte Cristo on wishing misfortune upon others to help us bear our own
+---
+
 ![Monte Cristo](/commonplace/assets/images/monte-cristo.jpg)
 
 Here is a brilliant sort of parable from the chapter, 'La Mazzolata,' in *The Count of Monte Cristo,* on the evil of wishing misfortune upon others to help us bear our own. Don't pretend you haven't done it before.
