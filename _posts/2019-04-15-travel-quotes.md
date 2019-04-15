@@ -11,7 +11,7 @@ From the Roman poet, Horace:
 
 <blockquote><p>Quid terras alio calentes/ Sole mutamus?  patriae quis exsul / Se quoque fugit?</p>
 
-<p>Why do we seek climates warmed by another sun?  Who is the man that by fleeing from his country, can also flee from himself?</p>
+<p>Why do we seek climates warmed by another sun?  Who is the man that by fleeing from his country, can also flee from himself?</p></blockquote>
 <cite>Horace, Od., ii. 16, 18.</cite>
 
 From Socrates, told by Montaigne in his essay *[On Solitude:](https://www.gutenberg.org/files/3600/3600-h/3600-h.htm#link2HCH0038)*
