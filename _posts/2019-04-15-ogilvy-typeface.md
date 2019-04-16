@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Ogilvy: stop obsessing about how your work looks
+title: David Ogilvy says stop obsessing about how your work looks
 ---
 
 >The drama belongs in what you say, not the typeface.
