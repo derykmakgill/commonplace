@@ -8,7 +8,7 @@ title: What is a Commonplace Book?
 
 <p>A commonplace book is a way to keep our learning priorities in order. It motivates us to look for and keep only the things we can use. … This is a project for a lifetime.</p></blockquote>
 
-<cite>Ryan Holiday, Author</cite>
+<cite>Ryan Holiday, Author</cite><br><br>
 
 >One could argue that a thoughtfully curated Tumblr is a “commonplace book” in its own right - after all, isn’t Tolstoy’s Calendar of Wisdom, the ultimate commonplace book, essentially a primitive Tumblr?
 
